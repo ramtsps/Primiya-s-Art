@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "extended_profiles",
+  "info": {
+    "singularName": "extended-profile",
+    "pluralName": "extended-profiles",
+    "displayName": "Extended Profile"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
